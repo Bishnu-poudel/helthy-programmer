@@ -1,5 +1,3 @@
-# helthy-programmer
-#healthy programmer will care about programmr health
 
 from pygame import mixer
 from datetime import datetime
